@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "my_burger",
-=======
-  "name": "react-complete-guide",
->>>>>>> 9dff91d55f94f814debae93a02eaa7959ff326c8
   "version": "0.1.0",
   "private": true,
   "dependencies": {
